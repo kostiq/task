@@ -3,3 +3,7 @@ linters = flake8, pep8
 
 [tool_pep8]
 python = 3
+
+
+[tool_flake8]
+python = 3
