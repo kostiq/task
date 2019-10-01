@@ -6,3 +6,4 @@ def find_absent(array):
 if __name__ == '__main__':
 	for number in find_absent([1,2,4,5,6,8,10]):
 		print(number)
+
