@@ -19,3 +19,4 @@ def get_credit_amount(amount, rate, period, payment_count):
 
 if __name__ == '__main__':
 	get_credit_amount(10000, 0.1, 10, 2)
+
