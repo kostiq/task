@@ -18,3 +18,4 @@ def get_images(url):
 
 if __name__ == '__main__':
     get_images('http://www.wookmark.com')
+
